@@ -2,11 +2,7 @@
 
 # Set Up Project
 
-> Add Html and Css files.
-
-![screenshot](./app_screenshot.png)
-
-Displays Hello world text.
+Add Html and Css files Which displayes a Hello World message.
 
 ## Built With
 
