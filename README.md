@@ -12,10 +12,6 @@ Displays Hello world text.
 
 - HTML & CSS
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
 ## Authors
 
 👤 **Author1**
