@@ -2,11 +2,7 @@
 
 # Set Up Project
 
-> Add Html and Css files.
-
-![screenshot](./screenshots/Screen Shot 2021-03-22 at 19.38.07.png)
-
-Displays Hello world text.
+Add Html and Css files Which displayes a Hello World message.
 
 ## Built With
 
